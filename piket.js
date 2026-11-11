@@ -10,7 +10,7 @@
    ============================================================ */
 
 /* URL Web App — HARUS sama dengan DEFAULT_API_URL di script.js. */
-const API_URL = 'https://script.google.com/macros/s/AKfycbygMQwK_s_vTaBbco89sZvB8XpH0p05kZFBAF2VRtSpNuVLVVWdLf9AAft0lsKAxb2N_w/exec';
+const API_URL = 'https://script.google.com/macros/s/AKfycbx6-qOMPZ-GtZgy8PUGBTyPaUgJcSNQxjz1cDHbRh0gox3IpYYiIXAcWo6_wuTJjf0q9w/exec';
 
 const LS_TOKEN = 'bk_piket_token';
 const LS_NAMA = 'bk_piket_nama';
